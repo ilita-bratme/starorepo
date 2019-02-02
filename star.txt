@@ -4,3 +4,4 @@ redakciq 2
 REDAKCIQQQQ 3
 redakciq 4 (ian)
 redakciq 5 (elena)
+redakciq 6 (gergana)
